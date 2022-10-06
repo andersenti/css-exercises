@@ -1,0 +1,21 @@
+/* stlye.css */
+
+.odd {
+    background-color: #F04B87;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.center {
+    font-size: 24px;
+}
+
+#two {
+    color: #3059D9;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #30D96B;
+    font-size: 24px;
+    font-weight: bold;
+}
